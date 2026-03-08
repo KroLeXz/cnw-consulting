@@ -3,7 +3,7 @@
   "private": true,
   "version": "0.0.0",
   "type": "module",
-  "homepage": "https://krolexz.github.io/cnw-consulting",
+  "homepage": "https://KroLeXz.github.io/cnw-consulting",
   "scripts": {
     "dev": "vite",
     "predeploy": "npm run build",
